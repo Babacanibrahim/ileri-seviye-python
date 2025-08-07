@@ -1,8 +1,8 @@
 # Alıştırma 1
-"""sayilar = [7,9,85,2,0,5,9,2,1,621,9,51,132]
+sayilar = [7,9,85,2,0,5,9,2,1,621,9,51,132]
 
 print(sorted(sayilar, reverse=True))
-"""
+
 # Alıştırma 2
 notlar = [
     {"ad" : "web", "not":50},

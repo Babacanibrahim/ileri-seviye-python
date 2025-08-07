@@ -11,4 +11,7 @@ sonuc2 = list(map(int, sayilar_str))
 sonuc3 = list(map(lambda kullanici : kullanici["soyad"].upper(),kullanicilar))
 sonuc4 = list(map(str.capitalize, isimler))
 
+print(sonuc)
+print(sonuc2)
+print(sonuc3)
 print(sonuc4)

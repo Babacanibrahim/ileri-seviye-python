@@ -1,17 +1,20 @@
 # 12ye bölünebilen sayılar
 mod12 = [i for i in range(1,101) if i%12 ==0]
 
+print(mod12)
 
 #Rakam bulma
 text = "Hello 12345 World"
 
-rakamlar = [i for i in text if i.isdigit()]
+rakamlar = [int(i) for i in text if i.isdigit()]
 
+print(rakamlar)
 
 #Sıcaklıklar
 sicakliklar = [20,15,0,-5,-2]
 tehlike = [i if i>=4 else "donma tehlikesi" for i in sicakliklar]
 
+print(tehlike)
 
 #Nota göre dict yazdırma
 ogrenciler = ["ali","ahmet","canan"]

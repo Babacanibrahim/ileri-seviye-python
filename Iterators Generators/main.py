@@ -1,5 +1,5 @@
 # 1 ile sonsuz arasındaki sayıların karesini getiren fonksion
-"""
+
 def sayi_karesi():
     sayi = 1
     while True:
@@ -15,7 +15,7 @@ print(next(generator))
 
 for i in generator:
     print(i)
-    """
+
 
 # Fibonacci dizisi
 

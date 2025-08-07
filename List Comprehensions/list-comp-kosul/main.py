@@ -5,6 +5,8 @@ for i in urun_fiyatlari:
     if i >0:
         vergiler.append(i*1.20)
 
+print(vergiler)
+
 
 #List-Comp
 

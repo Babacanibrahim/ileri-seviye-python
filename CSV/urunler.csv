@@ -1,0 +1,11 @@
+id,name,price,is_active,quantity
+1,Kalem,2.5,True,100
+2,Defter,4.0,True,50
+3,Silgi,1.0,False,0
+4,Cetvel,3.0,True,75
+5,Kalemtıraş,1.5,True,120
+6,Kitap,15.0,False,0
+7,Çanta,25.0,True,30
+8,Dosya,2.0,False,0
+9,Zımba,5.5,True,15
+10,Makas,6.0,True,10
